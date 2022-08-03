@@ -7,3 +7,6 @@ WIP - The project is still in it's early develelopement stage, so here's a list 
 + ❌ Emulate buttons using gestures
 + ❌ Connection to SteamVR (preferrably by done drivers and FreePIE)
 + ❌ Compatibility for *every* real VR game
+
+What am I doing right now:
+- A simple "VR" game using the webcam hand tracking and a Cardboard headset (not a real VR game, just a prototype)
