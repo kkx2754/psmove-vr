@@ -9,5 +9,5 @@ WIP - The project is still in it's early develelopement stage, so here's a list 
 + ❌ Compatibility for *every* real VR game
 
 What am I doing right now:
-- Rotation tracking
+- Controller depth
 - FreePIE UDP receiver plugin and hydra emulation script, it's almost done!
