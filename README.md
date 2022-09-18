@@ -1,5 +1,7 @@
 # psmove-vr
-A way to play SteamVR games without a real VR headset.
+A way to play SteamVR games without a real VR headset (kinda).
+
+Do you have old PSMove controllers laying around and a PS3Eye? Well well well, you can finally use them to play VR games! PSMoveVR achieves that by replicating the PSVR functionality so that it works with *every* headset and *every* PCVR game!
 
 WIP - The project is still in it's early develelopement stage, so here's a list of things that I already did and things that I plan to do:
 
