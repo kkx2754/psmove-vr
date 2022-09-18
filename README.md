@@ -9,5 +9,9 @@ WIP - The project is still in it's early develelopement stage, so here's a list 
 + ❌ Compatibility for *every* real VR game
 
 What am I doing right now:
-- Controller depth
-- FreePIE UDP receiver plugin and hydra emulation script, it's almost done!
+- Switching to another AHRS/IMU library because the old one was a bit off, plus the new one will have magnetometer calibration included so I don't have to program it myself
+- FreePIE UDP receiver plugin and hydra emulation script, there's a critical bug in it that it isn't even emulating the hydras.
+
+Future ideas:
+- Head tracking using a LED diode and a ping-pong ball
+- Joystick on the controller using a hybrid of the JoyCon and the PSMove
